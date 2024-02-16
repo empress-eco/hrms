@@ -7,7 +7,7 @@
         <p>Nurture Your Workforce.</p>
     </p>
 
-[https://empress.eco/product/talent/](hhttps://empress.eco/product/talent/)
+[https://empress.eco/product/talent/](https://empress.eco/product/talent/)
 
 </div>
 
