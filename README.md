@@ -1,85 +1,63 @@
 <div align="center">
-	<a href="https://frappehr.com">
-		<img src="https://raw.githubusercontent.com/frappe/hrms/develop/hrms/public/images/frappe-hr-logo.png" height="128" alt="Frappe HR Logo">
-	</a>
-	<h2>Frappe HR</h2>
-	<p align="center">
-		<p>Open Source, modern, and easy-to-use HR and Payroll Software for all organizations</p>
-	</p>
+    <a href="https://empress.eco/">
+        <img src="https://avatars.githubusercontent.com/u/46308912?s=96&v=4" height="50">
+    </a>
+    <h2>Empress Talent</h2>
+    <p align="center">
+        <p>Nurture Your Workforce.</p>
+    </p>
 
-[![CI](https://github.com/frappe/hrms/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/frappe/hrms/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/frappe/hrms/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/frappe/hrms)
-
-[https://frappehr.com](https://frappehr.com)
-
-<p align="center">
-	<a href="https://www.producthunt.com/posts/frappe-hr?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-frappe&#0045;hr" target="_blank">
-		<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=421276&theme=dark" alt="Frappe&#0032;HR - The&#0032;missing&#0032;open&#0032;source&#0032;HR&#0032;and&#0032;payroll&#0032;software | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
-	</a>
-</p>
-
-<div align="center" style="max-height: 40px;">
-	<a href="https://frappecloud.com/hrms/signup">
-		<img src=".github/try-on-f-cloud-button.svg" height="50">
-	</a>
-</div>
-
-
+[https://empress.eco/product/talent/](hhttps://empress.eco/product/talent/)
 
 </div>
 
 ## Introduction
 
-Frappe HR has everything you need to drive excellence within the company. It's a complete HRMS solution with over 13 different modules right from Employee Management, Onboarding, Leaves, to Payroll, Taxation, and more!
-
-![HRMS](hrms.png)
+Empress Talent is a comprehensive HRMS solution designed to drive excellence within any organization. It features over 13 modules, including Employee Management, Onboarding, Leaves, Payroll, Taxation, and much more, catering to all your HR needs.
 
 ## Key Features
 
-- Employee Management
-- Employee Lifecycle
-- Leave and Attendance
-- Shift Management
-- Expense Claims and Advances
-- Hiring
-- Performance Management
-- Fleet Management
-- Training
-- Payroll
-- Taxation
-- Compensation
-- Analytics
+- **Employee Management**: Streamline employee records and data.
+- **Employee Lifecycle**: Manage the entire journey from onboarding to exit.
+- **Leave and Attendance**: Automate leave applications and track attendance.
+- **Shift Management**: Efficiently manage work shifts and schedules.
+- **Expense Claims and Advances**: Simplify processing claims and advances.
+- **Hiring**: Streamline the recruitment process.
+- **Performance Management**: Evaluate and enhance employee performance.
+- **Fleet Management**: Manage company vehicles and related expenses.
+- **Training**: Organize and track employee training programs.
+- **Payroll**: Automate payroll processing.
+- **Taxation**: Manage employee taxes efficiently.
+- **Compensation**: Handle compensations and benefits.
+- **Analytics**: Gain insights with comprehensive HR analytics.
 
 ## Installation
 
 ### Manual Installation
 
-1. [Install bench](https://github.com/frappe/bench).
-2. [Install ERPNext](https://github.com/frappe/erpnext#installation).
-3. Once ERPNext is installed, add the hrms app to your bench by running
+1. Install Bench following [these instructions](https://github.com/empress-eco/bench).
+2. Install ERPNext as per [these steps](https://github.com/empress-eco/erempress-one).
+3. Add the Empress Talent app to your bench:
 
-	```sh
-	$ bench get-app hrms
-	```
-4. After that, you can install the hrms app on the required site by running
-	```sh
-	$ bench --site sitename install-app hrms
-	```
+Once Empress One is installed, add the hrms app to your bench by running
 
+```bash
+bench get-app hrms
+```
 
-## Learning and Community
+After that, you can install the hrms app on the required site by running
 
-1. [Documentation](https://frappehr.com/docs) - Extensive documentation for Frappe HR.
-2. [User Forum](https://discuss.erpnext.com/) - Engage with the community of ERPNext users and service providers.
-3. [Telegram Group](https://t.me/frappehr) - Get instant help from the community of users.
+```bash
+bench --site sitename install-app hrms
+```
 
 ## Contribute
 
-1. [Issue Guidelines](https://github.com/frappe/erpnext/wiki/Issue-Guidelines) - [Create an issue](https://github.com/frappe/hrms/issues/new)
-1. [Contribution Guidelines](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
+Report Issues and view guidelines.
 
+Contribution Guidelines for submitting pull requests.
 ## License
 
-GNU GPL V3. (See [license.txt](license.txt) for more information).
+Empress Talent is licensed under the GNU GPL V3. See license for more details.
 
-The HR code is licensed as GNU General Public License (v3) and the copyright is owned by Frappe Technologies Pvt Ltd (Frappe) and Contributors.
+Attribution: Empress Talent was originally developed as Frappe HR by Frappe Technologies Pvt Ltd and its community. This project builds upon their foundational work.
